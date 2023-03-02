@@ -10,7 +10,7 @@ return {
         "Volcano",
         "Cave",
         "Tech Entry",
-    }
+    },
     FantasyAreas = {
         "Enchanted Forst",
         "Ancient Island",
@@ -19,8 +19,7 @@ return {
         "Hell Island",
         "Heaven Island",
         "Heavens Gate"
-    }
-    
+    },
     TechAreas = {
         "Tech City",
         "Dark Tech",
@@ -31,32 +30,28 @@ return {
         "Glitch",
         "Giant Alien Chest",
         "Hacker Portal"
-    }
-    
+    },
     AxoAreas = {
         "Axolotl Ocean",
         "Axolotl Deep Ocean",
         "Axolotl Cave"
-    }
-    
+    },
     PixelAreas = {
         "Pixel Forest",
         "Pixel Kyoto",
         "Pixel Alps",
         "Pixel Vault"
-    }
-    
+    },
     CatAreas = {
         "Cat Paradise",
         "Cat Backyard",
         "Cat Taiga",
         "Cat Kingdom"
-    }
-    
+    },
     DoodleAreas = {
         "Doodle Meadow",
         "Doodle Peaks",
         "Doodle Farm",
         "Doodle Oasis"
-    }
+    },
 }
