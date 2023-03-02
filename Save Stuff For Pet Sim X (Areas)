@@ -8,8 +8,7 @@ return {
         "Glacier",
         "Desert",
         "Volcano",
-        "Cave",
-        "Tech Entry",
+        "Tech",
     },
     Fantasy = {
         "Enchanted Forst",
