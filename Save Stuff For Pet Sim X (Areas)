@@ -1,0 +1,62 @@
+return {
+    SpawnAreas = {
+        "Town",
+        "Forest",
+        "Beach",
+        "Mine",
+        "Winter",
+        "Glacier",
+        "Desert",
+        "Volcano",
+        "Cave",
+        "Tech Entry",
+    }
+    FantasyAreas = {
+        "Enchanted Forst",
+        "Ancient Island",
+        "Candy Island",
+        "Haunted Island",
+        "Hell Island",
+        "Heaven Island",
+        "Heavens Gate"
+    }
+    
+    TechAreas = {
+        "Tech City",
+        "Dark Tech",
+        "Steampunk",
+        "Alien Lab",
+        "Steampunk Chest",
+        "Alien Forest",
+        "Glitch",
+        "Giant Alien Chest",
+        "Hacker Portal"
+    }
+    
+    AxoAreas = {
+        "Axolotl Ocean",
+        "Axolotl Deep Ocean",
+        "Axolotl Cave"
+    }
+    
+    PixelAreas = {
+        "Pixel Forest",
+        "Pixel Kyoto",
+        "Pixel Alps",
+        "Pixel Vault"
+    }
+    
+    CatAreas = {
+        "Cat Paradise",
+        "Cat Backyard",
+        "Cat Taiga",
+        "Cat Kingdom"
+    }
+    
+    DoodleAreas = {
+        "Doodle Meadow",
+        "Doodle Peaks",
+        "Doodle Farm",
+        "Doodle Oasis"
+    }
+}
