@@ -1,5 +1,5 @@
 return {
-    SpawnAreas = {
+    Spawn = {
         "Town",
         "Forest",
         "Beach",
@@ -11,7 +11,7 @@ return {
         "Cave",
         "Tech Entry",
     },
-    FantasyAreas = {
+    Fantasy = {
         "Enchanted Forst",
         "Ancient Island",
         "Candy Island",
@@ -20,7 +20,7 @@ return {
         "Heaven Island",
         "Heavens Gate"
     },
-    TechAreas = {
+    Tech = {
         "Tech City",
         "Dark Tech",
         "Steampunk",
@@ -31,24 +31,24 @@ return {
         "Giant Alien Chest",
         "Hacker Portal"
     },
-    AxoAreas = {
+    Axolotl = {
         "Axolotl Ocean",
         "Axolotl Deep Ocean",
         "Axolotl Cave"
     },
-    PixelAreas = {
+    Pixel = {
         "Pixel Forest",
         "Pixel Kyoto",
         "Pixel Alps",
         "Pixel Vault"
     },
-    CatAreas = {
+    Cat = {
         "Cat Paradise",
         "Cat Backyard",
         "Cat Taiga",
         "Cat Kingdom"
     },
-    DoodleAreas = {
+    Doodle = {
         "Doodle Meadow",
         "Doodle Peaks",
         "Doodle Farm",
