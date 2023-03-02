@@ -50,6 +50,11 @@ return {
         "Doodle Meadow",
         "Doodle Peaks",
         "Doodle Farm",
-        "Doodle Oasis"
+        "Doodle Oasis",
+        "Doodle Woodlands",
+        "Doodle Barn",
+        "Doodle Safari",
+        "Doodle Fairyland",
+        "Doodle Cave"
     },
 }
